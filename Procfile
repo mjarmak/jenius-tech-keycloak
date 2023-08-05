@@ -1,1 +1,0 @@
-web: sh scripts/run-keycloak.sh
