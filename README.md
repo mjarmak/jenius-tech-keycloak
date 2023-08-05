@@ -20,28 +20,40 @@ due to Java's memory hunger) with a free Postgres database attached.
 [//]: # ()
 [//]: # (Set DATABASE_URL environment variable)
 
-## General Guide
+[//]: # (## General Guide)
 
-To get help configuring Keycloak via the CLI, run:
+[//]: # ()
+[//]: # (To get help configuring Keycloak via the CLI, run:)
 
-on Linux/Unix:
+[//]: # ()
+[//]: # (on Linux/Unix:)
 
-    $ bin/kc.sh
+[//]: # ()
+[//]: # (    $ bin/kc.sh)
 
-on Windows:
+[//]: # ()
+[//]: # (on Windows:)
 
-    $ bin\kc.bat
+[//]: # ()
+[//]: # (    $ bin\kc.bat)
 
-To try Keycloak out in development mode, run: 
+[//]: # ()
+[//]: # (To try Keycloak out in development mode, run: )
 
-on Linux/Unix:
+[//]: # ()
+[//]: # (on Linux/Unix:)
 
-    $ bin/kc.sh start-dev
+[//]: # ()
+[//]: # (    $ bin/kc.sh start-dev)
 
-on Windows:
+[//]: # ()
+[//]: # (on Windows:)
 
-    $ bin\kc.bat start-dev
+[//]: # ()
+[//]: # (    $ bin\kc.bat start-dev)
 
-After the server boots, open http://localhost:8080 in your web browser. The welcome page will indicate that the server is running.
+[//]: # ()
+[//]: # (After the server boots, open http://localhost:8080 in your web browser. The welcome page will indicate that the server is running.)
 
-To get started, check out the [configuration guides](https://www.keycloak.org/guides#server).
+[//]: # ()
+[//]: # (To get started, check out the [configuration guides]&#40;https://www.keycloak.org/guides#server&#41;.)
